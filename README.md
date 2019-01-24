@@ -1,22 +1,8 @@
-# Muhammad Kamran
+# Rizwan Ahmed
 
 > I am an experienced, enthusiastic and self-motivated Full Stack Mobile First Web Developer with a great passion for Javascript, TypeScript, AngularJS/ Angular, Ionic, React, Bootstrap, Materialize, Flexbox, RxJs, Redux, ngRx, Gulp, WebPack, NodeJS/ExpressJS, Heruko, AWS Services, Serverless (AWS Lambda) MongoDB, MySql, Google Firebase.
 
 ***
-
-## Startups
-
-### Stack Innovations
-
-> A services based startup providing web and mobile application development service using bleeding edge technologies.
-
-[stackinnovations.io](stackinnovations.io)
-
-#### devncode
-
- > A local tech community based in Karachi, Pakistan. Solving problems community growth by bringing more Technical Speakers who haven't speak before but are professional in the field and becoming a bridge between multiple communities, software houses, startups, and universities.
-
-[devncode.tech](devncode.tech)
 
 ## Skills
 
@@ -169,21 +155,10 @@
 
 #### Contact
 
-> [Github](https://github.com/smkamranqadri)
+> [Github](https://github.com/rizwanahmed19)
 
-> [Fiverr](https://www.fiverr.com/smkamranqadri)
+> [Fiverr](https://www.fiverr.com/rizwanahmed19)
 
-> [Upwork](https://www.upwork.com/o/profiles/users/_~0110e972200c426be4/)
+> [Linkedin](https://www.linkedin.com/in/rizwanahmed19/)
 
-> [Medium](https://medium.com/@muhammadkamranqadri)
-
-> [Linkedin](https://www.linkedin.com/in/smkamranqadri/)
-
-> [Facebook](facebook.com/devkamran)
-
-> Blog: blog.kamranqadri.me
-
-> Skype: smkamranqadri
-
-> [Email: contact@kamranqadri.me](mailto:contact@kamranqadri.me)
-
+> [Facebook](https://www.facebook.com/rzwnahmd19)
